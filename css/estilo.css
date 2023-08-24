@@ -1,0 +1,131 @@
+.rodape{
+    background-color: #fff9e0 !important;
+    color: rgb(0, 0, 0) !important;
+    margin-top: 5%!important;
+}
+
+.cor{
+    color: black;
+}
+.letra{
+    color: rgb(3, 3, 3) !important;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+font-size: 130%;
+}
+.header{
+    background-color: #fff9e0 !important  ;
+
+}
+.fundohome{
+    background-color: #b7d5ac;
+}
+.carro{
+    margin-top: 3% !important;
+    border-radius: 3% !important;
+}
+.frase{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+font-size: 400% !important;
+margin-top: 1% !important;
+}
+.frase2{
+ margin-top: 12% !important;
+}
+.sejabemvindo{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 150% !important;
+    margin-top: 1%!important;
+}
+.sejabemvindo2{
+ margin-top: -1%;
+margin-left: 5%;
+}
+.letraformulario{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 150% !important;
+    
+}
+.input12{
+width: 60% !important;
+margin-left: 22% !important;
+border: 3% #fff9e0 !important;
+}
+.letraemail{
+    margin-left: 25% !important;
+    margin-top: 2% !important;
+}
+.letrasenha{
+
+margin-left: 40% !important;
+}
+
+.input6{
+    width: 30% !important;
+margin-left: 38% !important;
+}
+.inputestado{
+    width: 30% !important;
+    margin-left: 57% !important;
+    margin-top: -5% !important;
+    height: 40% !important;
+}
+.botao{
+    text-align: center !important;
+    margin-top: 4% !important;
+    width: 20% !important;
+    height: 70% !important;
+    margin-left: 42% !important;
+    background-color: #fff9e0 !important;
+    color: black !important;
+}
+.letracesta{
+    font-size: 160% !important;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+text-align: center !important;
+margin-top: 2% !important;
+}
+.cesta{
+    margin-left: 3% !important;
+}
+.quadradro{
+    height: 100% !important;
+}
+.amor{
+    height: 25% !important; 
+}
+.BOTAOCESTA{
+    background-color: #fff9e0 !important;
+    color: black !important;
+
+}
+.letra-flor-especial{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 150% !important;
+}
+.letra-flor-especial-curto{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 140% !important;
+
+}
+.letra-flor-especial-titulo{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 190% !important;
+
+}
+.top{
+margin-top: 2% !important;
+}
+.left1{
+    margin-left: 17% !important;
+}
+.img{
+    height: 500px !important;
+    width: 100% !important;
+   
+}
+.BARRA-BRANCA{
+    width: 60%;
+    margin-left: 20% !important;
+margin-top: 2%;
+
+}
